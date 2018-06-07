@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello World! its ya boi
+#this script will output hello world on the screen
+echo "Hello World! its ya boi"
